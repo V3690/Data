@@ -19,4 +19,5 @@ class Config:
     # S3 Location
     S3_LOCATION = 'http://{}.s3.ap-northeast-2.amazonaws.com/'.format(BUCKET_NAME)
 
-    MH_GPT_KEY = "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"
+    MH_GPT_KEY = "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"
+    KAKAO_KEY = "f5c1863f40d029a1edaf0675aae80e46"
